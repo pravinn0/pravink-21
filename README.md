@@ -1,4 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=4000&background=37BFFF00&vCenter=true&lines=Hello%2C+My+Name+Is+Pravin.;Expert+in+anything+was+once+a+beginner.)](https://git.io/typing-svg)
+<br><br>
+
+| [![Pravin Gupta](https://img.shields.io/badge/Pravin-Gupta-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=pravink-21&color=red) | ![Followers](https://img.shields.io/github/followers/pravink-21) | ![Stars](https://img.shields.io/github/stars/pravink-21?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) |
+--| --| --| --|
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pravin-gupta-a2b539201/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/pravink_21) 
