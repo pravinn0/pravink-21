@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=19&duration=4000&background=37BFFF00&vCenter=true&lines=Hello%2C+My+Name+Is+Pravin.;Expert+in+anything+was+once+a+beginner.)](https://git.io/typing-svg)
 <br><br>
 
-| [![Pravin Gupta](https://img.shields.io/badge/Pravin-Gupta-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=pravink-21&color=red) | ![Followers](https://img.shields.io/github/followers/pravink-21) | ![Stars](https://img.shields.io/github/stars/pravink-21?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) |
+| [![Pravin Gupta](https://img.shields.io/badge/Pravin-Gupta-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=pravinn0&color=red) | ![Followers](https://img.shields.io/github/followers/pravinn0) | ![Stars](https://img.shields.io/github/stars/pravinn0?label=Profile%20Stars&logo=Profile%20stars&logoColor=r) |
 --| --| --| --|
 
 ## 🌐 Socials:
@@ -15,9 +15,9 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=pravink-21&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=pravink-21&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pravink-21&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=pravinn0&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=pravinn0&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pravinn0&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
